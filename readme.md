@@ -21,9 +21,9 @@ The infrastructure includes:
 
 - **OS:** Ubuntu 22.04 LTS  
 - **Web Server:** Nginx  
-- **Public IP:** [YOUR_SERVER_IP]  
-- **Domain:** https://yourdomain.com  
-- **API Endpoint:** https://yourdomain.com/api  
+- **Public IP:** 3.89.163.7  
+- **Domain:** https://captain-jet-devops-task01.duckdns.org/  
+- **API Endpoint:** https://captain-jet-devops-task01.duckdns.org/api  
 
 ---
 
